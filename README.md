@@ -87,7 +87,7 @@ The objective is to:
 
 The project was deployed using **Streamlit** for interactive prediction:
 
-👉 [Demo Application](https://croppy.streamlit.app/) *(update this link if needed)*
+👉 [Demo Application](https://croppy.streamlit.app/)
 
 ---
 
